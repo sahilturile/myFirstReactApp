@@ -5,7 +5,9 @@ import Component1 from './component/Component1';
 
 function App() {
   return (
-    <Component1/>
+    //<Component1/>
+
+    <img src="./logo192.png"/>
   );
 }
 
